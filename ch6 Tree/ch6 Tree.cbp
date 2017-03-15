@@ -40,6 +40,9 @@
 		<Unit filename="BO6-3.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="BTBLink.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="Bo6-4.c">
 			<Option compilerVar="CC" />
 		</Unit>
